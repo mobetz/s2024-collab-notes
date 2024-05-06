@@ -126,7 +126,15 @@ public class VCS {
         We can do this on the command line by switching to the branch that should "receive" the changes, and then using
         'git merge <other_branch>'.
 
+        The panes on the left and right show us both timelines, and the middle shows the final result.
+        Sometimes, you might have to make touch ups here when git can't figure out which copy of the code you want to
+        use. However, everything looks good for us, so we're ready to commit!
 
-        */
+        Git is an invaluable tool for helping us keep track of the way our code has changed over time. We can even use
+        branches to carry out different 'experiments' on our code, and only keep those that work out!
+
+        Next class, we'll see how git also has useful features for letting multiple people work together.
+          */
 
     }
+   }
