@@ -84,6 +84,15 @@ public class VCS {
     "Commit" option. In the commit dialog, we're able to write a helpful descriptive message of the changes we made.
       */
 
+               /*
+
+              Now, let's go take a look at our stage again.
+              We can see that our VCS.java file appears in the list of unstaged changes. Let's take a look at what the file
+              looks like when we view it.
+              Our file is showing us line by line what changed in the file:
+                 - Green lines are the 'new' version of the code.
+                 - Grey/Red lines are the 'old' version of the code.
+                 */
 
 
     }
