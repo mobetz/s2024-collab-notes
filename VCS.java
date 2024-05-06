@@ -91,7 +91,8 @@ public class VCS {
               looks like when we view it.
               Our file is showing us line by line what changed in the file:
                  - Green lines are the 'new' version of the code.
-                 - Grey/Red lines are the 'old' version of the code.
+                 - Grey are the 'old' version of the code.
+                 - Red are lines REMOVED in the 'new' version.
                  */
 
 
