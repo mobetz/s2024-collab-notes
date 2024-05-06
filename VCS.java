@@ -130,3 +130,9 @@ public class VCS {
         */
 
     }
+
+
+    public static String getCommentsAsText() {
+      return "Maybe I wanted to do something different and make my notes strings.";
+    }
+}
