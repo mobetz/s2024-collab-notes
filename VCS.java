@@ -95,4 +95,16 @@ public class VCS {
                  */
 
 
+              /*
+
+        If we want to 'rewind' time, we are able to do that by 'checking out' to reload an earlier one of our save
+        point commits. We can do this by right clicking the commit we want in the log, or performing 'git checkout <id>'.
+
+        Before we do that, we should make sure we save everything we're working on right now to a commit!
+
+        Once I checkout, I should also create a branch at that point and checkout that branch.
+
+
+        */
+
     }
