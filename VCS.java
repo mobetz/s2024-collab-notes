@@ -129,6 +129,10 @@ public class VCS {
 
         */
 
+        /*
+           If I have conflicting comments, the merge gets more complicated (I have to resolve those conflicts.)
+         */
+
     }
 
 
