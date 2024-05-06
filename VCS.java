@@ -137,4 +137,14 @@ public class VCS {
           */
 
     }
-   }
+
+
+        /*
+           If I have conflicting comments, the merge gets more complicated (I have to resolve those conflicts.)
+         */
+
+
+    public static String getCommentsAsText() {
+      return "Maybe I wanted to do something different and make my notes strings.";
+    }
+}
