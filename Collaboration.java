@@ -56,7 +56,12 @@ public class Collaboration {
         clone it with git clone <path_to_repo>.
 
 
-        */
+        When someone pushes changes to a repo we've cloned, we don't see those changes right away.
+        The 'git pull' command lets us take all the changes from the remote, and add them to our local copy of the repo.
+
+        Note: if we try to push to a repo that we haven't pulled from and there are changes we don't know about, the push
+        will fail and we'll get a warning that we need to pull first.
+         */
 
 
         /*
