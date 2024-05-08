@@ -57,5 +57,11 @@ public class Collaboration {
 
 
         */
+
+
+        /*
+         * We can merge remote branches the same way that we merge local ones.
+         * This is necessary if both sides have made a change at the same time.
+         */
     }
 }
