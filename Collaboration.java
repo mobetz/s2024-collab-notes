@@ -48,6 +48,14 @@ public class Collaboration {
         We can see that only the branch we pushed is visible to github, and right now github has a linear view of our
         history. However, every commit is visible, and we can see the whole history of our repository.
 
+         We can see that every time we commit, the changes don't make it to the server until we push again. In fact,
+        in our Log history, we can even see where the "remote" copy of master lives.
+
+
+        If I want a copy of a repo that I find on a remote repository like Github, I can
+        clone it with git clone <path_to_repo>.
+
+
         */
     }
 }
